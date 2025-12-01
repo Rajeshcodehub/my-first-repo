@@ -1,2 +1,1 @@
-# my-first-repo
-This is for practice 
+# My First Repository
